@@ -1,7 +1,7 @@
 #!/bin/bash -ex
 
 docker run \
-    --rm -it \
+    --rm \
     --init \
     --workdir /quartz/ \
     -v $(pwd)/content/:/quartz/content/ \
