@@ -1,2 +1,2 @@
 [[Toblen Stonehill]] (innkeeper)
-[[Elsa]] (barmaid)
+[[Elsa the Barmaid]] (barmaid)

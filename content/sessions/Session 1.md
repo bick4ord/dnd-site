@@ -12,12 +12,19 @@ Players
 
 Characters
 ---
+- [[Elmar Barthen]] in [[Stonehill Inn]] and [[Barthen's Provisions]]
+- [[Toblen Stonehill]] in [[Stonehill Inn]]
+- [[Elsa the Barmaid]] in [[Stonehill Inn]]
+- [[Qelline Alderleaf]] at the [[Alderleaf Farm]]
 
 Recap
 ---
+- [[Nayer]] asked [[Elmar Barthen]] about buying medicinal herbs
+	- He didn't have any, suggested trying at the [[Shrine of Luck]]
 - [[Elmar Barthen]] tasked the players with tracking down goblins that have been raiding caravans and recovering any caravan goods that may have been stashed in their hideout.
 	- He provided a rough map acquired from a slain goblin.
 	- He let them borrow one of his horse-drawn carts to return any goods.
+	- He promised the players 20gp each for bringing proof of goblin eradication, and [[Milo]] 50gp if the stolen goods are returned
 - [[Qelline Alderleaf]] let the players purchase one of his mules named Rik for 4GP.
 	- He will return the gold when the mule is returned.
 	- His wife gave the players a sack of vegetables for the journey
