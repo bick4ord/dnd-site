@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: D&D Site
 ---
+Players
+---
+[[Eldrin]]
+[[Milo]]
+[[Nayer]]
+[[Saphrina]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Sessions
+---
+[[Session 1]]
+

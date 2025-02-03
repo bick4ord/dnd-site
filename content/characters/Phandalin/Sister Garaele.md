@@ -1,0 +1,1 @@
+Cleric of Tymora, resident of [[Shrine of Luck]]
