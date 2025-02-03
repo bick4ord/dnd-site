@@ -1,1 +1,1 @@
-Owner and Bartender of [[Stonehill Inn]]
+- Owner and Bartender of [[Stonehill Inn]]

@@ -1,1 +1,1 @@
-[[Sister Garaele]] (cleric)
+- [[Sister Garaele]] (cleric)

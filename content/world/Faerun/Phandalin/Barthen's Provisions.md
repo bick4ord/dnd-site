@@ -1,3 +1,3 @@
-[[Elmar Barthen]] (owner)
-Ander (clerk)
-Thistle (clerk)
+- [[Elmar Barthen]] (owner)
+- Ander (clerk)
+- Thistle (clerk)

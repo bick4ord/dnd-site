@@ -1,5 +1,5 @@
 ---
-title: D&D Site
+title: Index
 ---
 Players
 ---
@@ -16,3 +16,4 @@ World
 Sessions
 ---
 1. [[Session 1]]
+2. [[Session 2]]
