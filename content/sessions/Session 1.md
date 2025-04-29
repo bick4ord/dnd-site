@@ -28,7 +28,7 @@ Recap
 - [[Qelline Alderleaf]] let the players purchase one of his mules named Rik for 4GP.
 	- He will return the gold when the mule is returned.
 	- His wife gave the players a sack of vegetables for the journey
-- The players killed one goblin guarding the hideout cave entrance.  The other goblin, Chow, surrendered and was taken captive.
+- The players killed one goblin guarding the Goblin Hideout cave entrance.  The other goblin, Chow, surrendered and was taken captive.
 - A sentry in the cave saw the torchlight of the players and released a flood into the cave
 	- [[Saphrina]] and [[Nayer]] were swept away to the entrance along with Chow, who was tragically killed due to being bound/gagged and in poor health from the battle.
 - There are three wolves that are chained in the opening room of the cave, which is now partially flooded
