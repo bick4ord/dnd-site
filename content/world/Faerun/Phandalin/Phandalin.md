@@ -1,4 +1,10 @@
+- The town consists of forty or fifty simple log buildings, some built on old fieldstone foundations. More old ruins-crumbling stone walls covered in ivy and briars-surround the newer houses and shops, showing how this must have been a much larger town in centuries past. Most of the newer buildings are set on the sides of the cart track, which widens intoa muddy main street of sorts as it climbs toward a ruined manor house on a hillside at the east side of town.
 - [[Alderleaf Farm]]
 - [[Barthen's Provisions]]
+- [[Edermath Orchard]]
+- [[Phandalin Miner's Exchange]]
 - [[Shrine of Luck]]
 - [[Stonehill Inn]]
+- [[The Sleeping Giant]]
+- [[Townmaster's Hall]]
+- [[Tresendar Manor]]

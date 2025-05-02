@@ -1,0 +1,1 @@
+- A short, darkbearded human wizard in his thirties

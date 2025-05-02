@@ -1,0 +1,2 @@
+- Townmaster of Phandalin
+- Resides in [[Townmaster's Hall]]

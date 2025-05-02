@@ -1,3 +1,4 @@
+- Barthen's is the biggest trading post in [[Phandalin]]. Its shelves stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. The place is open from sunup to sundown. Barthen's does not stock weapons or armor
 - [[Elmar Barthen]] (owner)
 - Ander (clerk)
 - Thistle (clerk)

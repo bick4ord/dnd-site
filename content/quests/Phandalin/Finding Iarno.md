@@ -1,0 +1,4 @@
+- Sildar describes Iarno as "a short, darkbearded human wizard in his thirties."
+- After questioning several locals, Sildar learns that [[Iarno Albrek]], a fellow member of the Lords' Alliance, disappeared while exploring the area around [[Tresendar Manor]] about two months ago, shortly after arriving in [[Phandalin]].
+- Sildar asks the characters to investigate the manor and the surrounding area to find and bring back Iarno - or what's left of him, if something killed him.
+- Regardless of Iarno's fate, Sildar rewards the party with 200 gp for eliminating the Redbrand threat.

@@ -1,0 +1,2 @@
+- [[Sildar Hallwinter]] heard from the goblins that the [[Black Spider]] sent word that the dwarf was to be brought to him.
+- Sildar doesn't know who or what the [[Black Spider]] is.

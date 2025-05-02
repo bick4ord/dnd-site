@@ -1,0 +1,1 @@
+- Tend to hang out in [[The Sleeping Giant]]

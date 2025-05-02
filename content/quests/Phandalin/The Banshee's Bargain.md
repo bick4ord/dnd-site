@@ -1,0 +1,5 @@
+- [[Sister Garaele]] and her superiors in the [[Shrine of Luck]] tasked the party to persuade a banshee named Agatha to answer a question about a spellbook.
+- Garaele sought out Agatha in her lair, but the creature did not appear for her.
+- Garaele desires an intermediary to bring Agatha suitable gift, a jeweled silver comb, and persuade the creature to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle.
+- [[Sister Garaele]] believes that a character who flatters Agatha's vanity might be able to trade the comb for an answer.
+- She offers the party three potions of healing as payment for their efforts.

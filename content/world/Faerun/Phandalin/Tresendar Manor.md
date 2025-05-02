@@ -1,0 +1,2 @@
+- More a castle than a house, Tresendar Manor stands at the east edge of town on a low hillside amid woods and thickets.
+- The ancient manor has long been abandoned

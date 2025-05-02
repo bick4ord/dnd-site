@@ -1,2 +1,4 @@
+- In the center of town stands a large, newly built roadhouse of fieldstone and rough-hewn timbers. The common room is filled with locals nursing mugs of ale or cider, all of them eyeing you with curiosity.
+- This modest inn has six rooms for rent ([[Sildar Hallwinter]] takes one).
 - [[Toblen Stonehill]] (innkeeper)
 - [[Elsa the Barmaid]] (barmaid)

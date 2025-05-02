@@ -1,0 +1,2 @@
+- [[Harbin Wester]] is looking for someone to head east on the Triboar Trail, where travelers have reported trouble with a band of orcs near Wyvern Tor.
+- He offers 100 gp to any group that can take care of the problem.

@@ -1,0 +1,2 @@
+- bugbear, gobin leader from the Goblin Cave
+- escaped from the party in [[Session 3]] by diving down the cave chimney

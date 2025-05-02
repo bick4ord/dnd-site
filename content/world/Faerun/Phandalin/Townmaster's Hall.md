@@ -1,0 +1,5 @@
+- The townmaster's hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back.
+- Posted on a board next to the front door is a notice written in Common. It reads:
+    - "REWARD - Orcs near Wyvern Tor! Those of a mind to face the orc menace should inquire within."
+- The notice bears the town's seal and an indecipherable signature.
+-  The current townmaster is a male human banker named [[Harbin Wester]]

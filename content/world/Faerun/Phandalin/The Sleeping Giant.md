@@ -1,0 +1,1 @@
+- The Sleeping Giant is a ramshackle taproom at the east end of town.
